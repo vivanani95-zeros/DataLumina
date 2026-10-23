@@ -1,0 +1,27 @@
+name: Unzip Uploaded Archive
+on:
+  push:
+    paths:
+      - '*.zip' # Triggers whenever a .zip file is pushed
+
+jobs:
+  unzip:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Extract zip and clean up
+        run: |
+          unzip -o "*.zip"     # Extracts the contents
+          rm *.zip             # Deletes the original zip file
+
+      - name: Commit and push extracted files
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Automated unzip from GitHub Actions" || exit 0
+          git push
