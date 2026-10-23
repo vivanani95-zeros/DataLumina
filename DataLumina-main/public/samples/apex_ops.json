@@ -1,0 +1,52 @@
+{
+  "fleet": {
+    "assets": [
+      {
+        "employee_id": "E-404",
+        "hostname": "noor-macbook.lumen.corp",
+        "role": "laptop",
+        "network": {
+          "public_ip": "203.0.113.88",
+          "local_ip": "10.4.0.12",
+          "vpn_ip": "100.64.1.9"
+        }
+      },
+      {
+        "employee_id": "E-402",
+        "hostname": "alex-controller.lumen.corp",
+        "role": "laptop",
+        "network": { "public_ip": "198.51.100.10", "local_ip": "10.4.0.8" }
+      },
+      {
+        "employee_id": "E-403",
+        "hostname": "alex-eng.northstar.corp",
+        "role": "laptop",
+        "network": { "public_ip": "192.0.2.77", "local_ip": "10.9.0.3" }
+      },
+      {
+        "employee_id": "E-408",
+        "hostname": "jules-fpa.lumen.corp",
+        "role": "laptop",
+        "network": { "public_ip": "203.0.113.91", "local_ip": "10.4.0.19" }
+      },
+      {
+        "employee_id": "E-405",
+        "hostname": "sable-trap.lumen.corp",
+        "role": "laptop",
+        "network": { "public_ip": "198.51.100.99" }
+      },
+      {
+        "employee_id": "E-409",
+        "hostname": "kai-avionics",
+        "role": "laptop",
+        "network": { "public_ip": "198.51.100.77" }
+      },
+      {
+        "employee_id": "E-401",
+        "hostname": "mina-vp.lumen.corp",
+        "role": "laptop",
+        "network": { "public_ip": "203.0.113.1" }
+      }
+    ]
+  }
+}

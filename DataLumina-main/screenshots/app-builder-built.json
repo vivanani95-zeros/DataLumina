@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DataLumina",
+      "hasCanvas": false,
+      "bodyTextLen": 238,
+      "bodyTextHash": "bf83ba9d4ed95c59594bd1397576ee5b0c9880df788c78b8b9a9c079a37dadc2",
+      "bodyTextPrefix": "DataLumina History Private DataLumina Fast Get DataLumina for Bu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DataLumina",
+      "hasCanvas": false,
+      "bodyTextLen": 217,
+      "bodyTextHash": "7006dd74094e3a99405f382cd2f0972923848907440313ca38093451e1f16303",
+      "bodyTextPrefix": "DataLumina DataLumina Get DataLumina for Business Give every tea",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: title changed (\"Loading http://127.0.0.1:8080/\" -> \"DataLumina\")",
+    "desktop: body text changed (283 -> 238 chars, hash mismatch)"
+  ]
+}

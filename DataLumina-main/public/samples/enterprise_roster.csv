@@ -1,0 +1,8 @@
+employee_id,full_name,dob,gender,email,title,unit,manager,office
+E-104,"Venn, Sora",1982-06-11,F,sora.venn@helios.aero,Director of Lunar Ops,Lunar Ops,,Mojave
+E-221,Kai Ortega,1990-01-22,Male,kai.ortega@helios.aero,Principal Avionics,Lunar Ops,Sora Venn,Hawthorne
+E-218,Amelia Rourke,1987-09-03,female,amelia.rourke@helios.aero,GNC Lead,Lunar Ops,Sora Venn,Hawthorne
+E-330,Noah Pell,1990-12-01,m,noah.pell@orbitmail.test,Contractor,Ground Systems,Kai Ortega,Austin
+E-219,"Jules ""J."" Park",1993-04-17,F,jules.park@helios.aero,Staff Propulsion,Lunar Ops,Sora Venn,McGregor
+E-400,Rin Okonkwo,1991-07-09,Female,rin.okonkwo@helios.example,VP People,People,,San Francisco
+E-441,Theo Venn,1995-12-30,M,theo.venn@helios.aero,Intern,Lunar Ops,Kai Ortega,Mojave

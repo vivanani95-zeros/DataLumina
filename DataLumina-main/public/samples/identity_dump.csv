@@ -1,0 +1,7 @@
+# HR export — messy headers, mixed aliases
+FULL  NAME ,DOB (mm/dd/yyyy),Govt-ID,Sex,Alias / aka,email address,phone,job title,employer,manager
+Ava Meridian,03/14/1988,P-44920183,F,A. Meridian / "Avi",ava.meridian@lumina.test,1 (415) 555-0198,Staff Propulsion Engineer,Helios Dynamics,Jonah Hale
+Jonah Hale,11/02/1979,DL-CA-8821190,M,J. Hale,jhale@helios.example,415-555-0102,Director of Launch,Helios Dynamics,R. Okonkwo
+Rin Okonkwo,7/9/1991,NIN-3301922,Female,Rin O.,rin.okonkwo@helios.example,+1 628.555.0144,VP People,Helios Dynamics,
+Noah Pell,1990-12-01,SSN 441-82-1933,m,N.Pell,noah.pell@orbitmail.test,(512)555-0188,Contractor,Pell Analytics,Ava Meridian
+"Chen, Lila",02/28/1985,PP-CN-193847,F,Lila C,lila.chen@lumina.test,4085550172,GNC Lead,Helios Dynamics,Jonah Hale

@@ -1,0 +1,26 @@
+txn_id,employee_id,ts,merchant,amount,payment_method,kind
+T-5101,E-402,2026-05-01T00:00:00,Helios Fuel,25.00,Mastercard *8812,charge
+T-5102,E-402,2026-05-01T00:00:01,NightCart,25.01,Mastercard,charge
+T-5103,E-402,2026-04-30T23:59:59,NightCart,80.00,Mastercard,charge
+T-5104,E-402,2026-05-03T18:40:00,Lumen Brokerage,100.00,Visa *4412,charge
+T-5105,E-402,2026-05-04T12:00:00,Orbitflix,14.99,Mastercard,subscription
+T-5106,E-402,2026-05-05T09:00:00,Helios Fuel,-25.01,Mastercard,refund
+T-5107,E-404,2026-05-02T10:00:00,City Power,"$1,200.50",Mastercard *1001,charge
+T-5108,E-404,2026-05-02T11:00:00,Apple Store,40.00,Apple Pay,charge
+T-5109,E-404,2026-05-06T22:00:00,Northwind,30.00,MC,charge
+T-5110,E-408,2026-05-07T08:00:00,Umbra Coffee,26.00,mastercard,charge
+T-5111,E-408,2026-05-08T08:00:00,Umbra Coffee,26.00,Mastercard,chargeback
+T-5112,E-408,2026-05-09T08:00:00,Umbra Coffee,27.00,Master Card,charge
+T-5113,E-405,2026-05-10T08:00:00,NightCart,999.00,Mastercard,charge
+T-5114,E-406,2026-05-10T08:00:00,NightCart,888.00,Mastercard,charge
+T-5115,E-403,2026-05-10T08:00:00,NightCart,777.00,Mastercard,charge
+T-5116,E-402,2026-05-11T08:00:00,credit_limit,5000.00,Mastercard,holdings
+T-5117,E-407,2026-05-11T08:00:00,NightCart,50.00,Mastercard,charge
+T-5118,E-408,2026-05-12T14:00:00,Helios Fuel,25.50,Mastercard,charge
+T-5119,0402,2026-05-13T10:00:00,NightCart,10.00,Mastercard,charge
+T-5120,E-402,2026-05-14T10:00:00,Apple,60.00,Mastercard,charge
+T-5121,E-404,2026-05-15T10:00:00,City Power,0.00,Mastercard,charge
+T-5122,E-409,2026-05-15T10:00:00,Lumen Brokerage,500.00,Mastercard,charge
+T-5123,E-404,2026-05-16T03:00:00,NightCart,29.99,Mastercard,recurring
+T-5124,E-408,2026-05-17T10:00:00,NightCart,100.00,Amex,charge
+T-5125,E-401,2026-05-18T10:00:00,NightCart,44.00,Mastercard,charge

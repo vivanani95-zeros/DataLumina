@@ -1,0 +1,54 @@
+{
+  "device": {
+    "manufacturer": "Starlink Terminal Co",
+    "device_model": "SL-7X",
+    "motherboard": "SL-MB-9A",
+    "cpu": "ARM v9 octa 3.2GHz",
+    "gpu": "Adreno 750",
+    "os": "Horizon OS 4.2",
+    "kernel": "6.6.18-horizon",
+    "uptime": "14d 3h 22m",
+    "battery": {
+      "charge_capacity": 87.4,
+      "cycle_count": 412,
+      "cell_temp": 31.6,
+      "battery_health": 0.91
+    },
+    "storage": {
+      "capacity_gb": 512,
+      "free_space": 128.4,
+      "filesystem": "ext4"
+    }
+  },
+  "network": {
+    "local_ip": "10.4.12.88",
+    "public_ip": "203.0.113.44",
+    "mac_address": "A4:5E:60:1B:C2:19",
+    "isp": "Helios Fiber",
+    "vpn": "wireguard: up",
+    "ssid": "Helios-Lab-5G",
+    "bssid": "B0:7F:B9:22:AA:01",
+    "rssi": -47,
+    "carrier": "Umbra Mobile",
+    "tower_id": "310-260-44192",
+    "roaming": false
+  },
+  "browser": {
+    "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+    "screen_resolution": "3024x1964",
+    "canvas_hash": "a91c2e0f7b44",
+    "fonts": "Sora, IBM Plex Mono, Menlo",
+    "timezone": "America/Los_Angeles",
+    "language": "en-US"
+  },
+  "peripherals": {
+    "bluetooth": ["WH-1000XM5", "Keychron Q1", "MX Master 3S"],
+    "monitor": "Pro Display XDR 32",
+    "audio_jack": "disconnected"
+  },
+  "spatial": [
+    { "latitude": 33.9206, "longitude": -118.3280, "altitude": 32.4, "speed": 0.2, "lux": 420, "pressure_hpa": 1011.2 },
+    { "latitude": 33.9211, "longitude": -118.3272, "altitude": 33.1, "speed": 4.8, "lux": 380, "pressure_hpa": 1010.8 },
+    { "latitude": 33.9224, "longitude": -118.3251, "altitude": 34.0, "speed": 11.3, "lux": 1100, "pressure_hpa": 1010.4 }
+  ]
+}

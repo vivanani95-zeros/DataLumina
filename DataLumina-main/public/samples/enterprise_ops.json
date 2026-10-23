@@ -1,0 +1,24 @@
+{
+  "assets": [
+    {
+      "employee_id": "E-221",
+      "hostname": "kai-mbp.helios.aero",
+      "role": "laptop",
+      "network": { "public_ip": "198.51.100.77", "local_ip": "10.8.1.14" },
+      "location": { "lat": 33.92061, "lng": -118.32804 }
+    },
+    {
+      "employee_id": "E-218",
+      "hostname": "amelia-work.helios.aero",
+      "role": "laptop",
+      "network": { "public_ip": "203.0.113.90", "local_ip": "10.8.1.22" },
+      "location": { "lat": 33.92102, "lng": -118.32711 }
+    },
+    {
+      "employee_id": "E-219",
+      "hostname": "jules-lab.helios.aero",
+      "role": "workstation",
+      "network": { "public_ip": "192.0.2.44", "local_ip": "10.8.1.30" }
+    }
+  ]
+}

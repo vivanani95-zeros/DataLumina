@@ -1,0 +1,11 @@
+employee_id,full_name,dob,gender,email,title,unit,manager,office
+E-401,"Park, Mina",1979-04-12,female,mina.park@lumen.corp,VP Orbital Finance,Orbital Finance,,Hawthorne
+E-402,Alex Kim,1991-08-08,female,alex.kim@lumen.corp,Controller,Orbital Finance,"Park, Mina",Hawthorne
+E-403,Alex Kim,1988-01-19,male,alex.kim@northstar.corp,Staff Engineer,Flight Software,Rin Okonkwo,Austin
+E-404,Noor Haddad,1993-11-02,F,noor.haddad@lumen.corp,Treasury Lead,Orbital Finance,Mina Park,Hawthorne
+E-405,Sable Wren,1996-02-14,female,sable.wren@lumen.corp.mail,Analyst,Orbital Finance,Mina Park,Hawthorne
+E-406,Ivy Chen,1985-07-22,female,ivy.chen@lumen.com,Director,Orbital Finance,Mina Park,Hawthorne
+E-407,Theo Park,2001-03-03,male,theo.park@lumen.corp,Intern,Orbital Finance,Alex Kim,Hawthorne
+E-408,Jules Okada,1990-12-01,Woman,jules.okada@lumen.corp,FP&A,Orbital Finance,Mina Park,Mojave
+E-409,Kai Ortega,1990-01-22,male,kai.ortega@helios.aero,Principal Avionics,Lunar Ops,Sora Venn,Hawthorne
+E-410,Rin Okonkwo,1984-05-05,female,rin.okonkwo@northstar.corp,Director,Flight Software,,Austin

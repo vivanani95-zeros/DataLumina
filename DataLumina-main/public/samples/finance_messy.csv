@@ -1,0 +1,13 @@
+txn_id,merchant,amount,payment_method,ts,account_balance,card_type
+T-10021,Umbra Coffee,$4.80,Apple Pay,2026-03-02 08:14,12440.12,Visa
+T-10022,Helios Fuel,62.10,Visa *4412,2026-03-02 18:40,12378.02,Visa
+T-10023,Orbitflix,15.99,PayPal,2026-03-03 00:02,12362.03,—
+T-10024,NightCart Impulse,189.00,Apple Pay,2026-03-03 01:17,12173.03,Visa
+T-10025,Lumen Brokerage,500.00,ACH,2026-03-04 09:00,11673.03,—
+T-10026,City Power Co,94.22,recurring ACH,2026-03-05 06:01,11578.81,—
+T-10027,late_fee overdraft,35.00,bank,2026-03-06 23:51,11543.81,—
+T-10028,ETH wallet top-up,0.42 ETH,crypto,2026-03-07 11:08,11543.81,—
+wallet,0x4f3a91c8d0e22b17a88c01d4e6a9b3c7d2e1f0aa,holdings,ETH 1.04 / AAPL 40 / QQQ 12,risk_tolerance,moderate
+subscription,Orbitflix,15.99,monthly
+subscription,Helios Cloud,49.00,monthly
+credit_limit,12500,available_credit,9800,fico,742

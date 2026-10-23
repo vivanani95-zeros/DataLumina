@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Loading http://127.0.0.1:8080/",
+      "hasCanvas": false,
+      "bodyTextLen": 283,
+      "bodyTextHash": "e139e08380028c45c7000d341b4b506ac26baa68f60cb36df66f6c8fee787ff1",
+      "bodyTextPrefix": "DataLumina HistoryPrivate History No briefs yet. Attach a file a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DataLumina",
+      "hasCanvas": false,
+      "bodyTextLen": 217,
+      "bodyTextHash": "7006dd74094e3a99405f382cd2f0972923848907440313ca38093451e1f16303",
+      "bodyTextPrefix": "DataLumina DataLumina Get DataLumina for Business Give every tea",
+      "horizontalOverflow": false,
+      "consoleErrors": [
+        "A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:\n\n- A server/client branch `if (typeof window !== 'undefined')`.\n- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.\n- Date formatting in a user's locale which doesn't match the server.\n- External changing data without sending a snapshot of it along with the HTML.\n- Invalid HTML tag nesting.\n\nIt can also happen if the client has a browser extension installed which messes with the HTML before React loaded.\n\n%s%s https://react.dev/link/hydration-mismatch \n\n  ...\n    <MatchView router={{...}} match={{id:\"//\",ssr:true, ...}}>\n      <SafeFragment>\n        <SafeFragment fallback={null}>\n          <CatchBoundary getResetKey={function getResetKey} errorComponent={function AppErrorComponent} ...>\n            <SafeFragment fallback={function fallback}>\n              <MatchInnerImpl match={{id:\"//\",ssr:true, ...}}>\n                <Lazy>\n                  <Home>\n                    <main className=\"relative m...\" onDragEnter={function onDragEnter} onDragOver={function onDragOver} ...>\n                      <Starfield>\n                      <TopBar>\n                      <HistoryDrawer>\n                      <AboutDialog>\n                      <div className=\"relative z...\">\n                        <div className=\"flex w-ful...\">\n                          <div>\n                          <div className=\"stagger-in...\" style={{...}}>\n                            <Composer onSubmit={function submit} autoFocus={true}>\n                              <div className=\"w-full\" onDragOver={function onDragOver} onDrop={function onDrop}>\n                                <input\n                                  ref={{current:null}}\n                                  type=\"file\"\n                                  multiple={true}\n                                  className=\"hidden\"\n                                  accept=\".csv,.tsv,.json,.ndjson,.txt,.log,.xml,.html,.har,.vcf,.md\"\n                                  onChange={function onChange}\n-                                 style={{caret-color:\"transparent\"}}\n                                >\n                                <div className=\"rounded-[2...\">\n                                  <div className=\"flex items...\">\n                                    <button>\n                                    <textarea\n                                      ref={{current:null}}\n                                      rows={1}\n                                      value=\"\"\n                                      disabled={false}\n                                      placeholder=\"Ask anything — or paste a question with CSV/JSON\"\n                                      className=\"mb-2 max-h-40 min-h-7 flex-1 resize-none bg-transparent py-2 text-[15...\"\n                                      onChange={function onChange}\n                                      onKeyDown={function onKeyDown}\n-                                     style={{caret-color:\"transparent\"}}\n                                    >\n                                    ...\n                          ...\n"
+      ],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
